@@ -9,7 +9,7 @@
 GitHub-аккаунт на Платформе.
 2. Скопируйте репозиторий на свой локальный компьютер:
     * `git clone https://github.com/{{ username }}/de-project-4.git`
-    * `cd de-project-3`
+    * `cd de-project-4`
 3. Выполните проект и сохраните получившийся код в локальном репозитории:
 	  * `git add .`
 	  * `git commit -m 'my best commit'`
