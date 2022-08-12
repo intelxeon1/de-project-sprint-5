@@ -35,5 +35,7 @@ sindb/de-pg-cr-af:latest
 ```
 
 После того как запустится контейнер, вам будут доступны:
-- Airflow (`localhost:3000/airflow`)
-- БД (`jovyan:jovyan@localhost:15432/de`)
+- Airflow
+	- `localhost:3000/airflow`
+- БД
+	- `jovyan:jovyan@localhost:15432/de`
